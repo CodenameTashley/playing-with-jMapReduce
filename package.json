@@ -1,0 +1,25 @@
+{
+  "name": "nudomain.mu",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    
+    "MapReduce",
+    "CodenameTashley",
+    "JMapReduce"
+  ],
+  "author": "Tashley Toocaram",
+  "license": "ISC",
+  "dependencies": {
+    "jmapreduce": "^0.1.1"
+  },
+  "engines": {
+    "node": "8.11.2",
+    "npm": "6.0.1"
+  }
+}
